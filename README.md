@@ -1,4 +1,4 @@
-# QRcode Order-Confirm
+# QRcode Order-N-Confirm
 
 
 Web application for order&amp;confirm function by using QRcode and URL
